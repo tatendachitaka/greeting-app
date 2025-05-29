@@ -20,6 +20,7 @@ This project was built as a basic Spring Boot demo to understand how controllers
 
 ## Screenshot
 ![thescreenshot](https://github.com/user-attachments/assets/8576cffd-7a1f-4e21-948d-58796af06d72)
+![springscreenshot](https://github.com/user-attachments/assets/1476aba9-1636-4034-82bf-46d35f503bff)
 
 
 
